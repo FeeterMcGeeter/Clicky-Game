@@ -1,0 +1,44 @@
+.card {
+    border: 4px solid;
+    border-radius: 2px;
+    width: 160px;
+    height: 160px;
+    margin: 1rem;
+    position: relative;
+    transition: all .2s ease-in-out;
+  }
+  
+  .card > .imgContainer {
+    height: 100%;
+    overflow: hidden;
+    background:#fff;
+    margin: auto;
+  }
+  
+  .card > .imgContainer > img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  
+  .card:active {
+    transform: translate(1px, 1px);
+  }
+
+  @media screen and (max-width: 768px) {
+    .card {
+      width: 120px;
+      height: 120px;
+    }
+  }
+
+  @media screen and (max-width: 580px) {
+    .card {
+      width: 90px;
+      height: 90px;
+    }
+  }

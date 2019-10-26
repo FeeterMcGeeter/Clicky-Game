@@ -1,0 +1,11 @@
+.wrapper {
+    height: 100vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+    background: url('http://getwallpapers.com/wallpaper/full/c/5/1/1022275-megaman-wallpaper-1920x1080-smartphone.jpg') no-repeat center;
+    background-size: cover;
+}

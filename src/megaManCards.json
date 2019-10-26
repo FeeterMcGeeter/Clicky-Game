@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.ssbwiki.com/images/thumb/3/30/MM11-MegaMan.png/300px-MM11-MegaMan.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/0/04/Fireman.png/revision/latest?cb=20100508214253",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/7/73/CW-12-QuickMan-Art.jpg/revision/latest?cb=20100506031406",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/9/9d/Flashman.png/revision/latest?cb=20100508221740",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/4/47/Skullman.png/revision/latest?cb=20100919042748",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/d/d5/Gravityman.png/revision/latest?cb=20100929004802",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/d/d7/Bubbleman.png/revision/latest?cb=20190125132124",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/8/8e/Sparkman.png/revision/latest?cb=20100509161358",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/a/ad/Heatman.png/revision/latest?cb=20100508224320",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/c/c1/Shadowman.png/revision/latest?cb=20100509153102",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/7/7e/Magnetman.png/revision/latest?cb=20100509150706",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://vignette.wikia.nocookie.net/megaman/images/2/26/Elecman.png/revision/latest?cb=20100508213805",
+      "clicked": false
+    }
+  ]
