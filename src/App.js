@@ -46,7 +46,7 @@ class App extends Component {
     })
     if (newScore >= this.state.highScore) {
       this.setState({ highScore: newScore });
-    } else if (newScore === 12) {
+    } else if (newScore === 20) {
       this.setState({ correctOrIncorrect: "You Guessed All Cards Correctly! You Win!" });
     }
     this.shuffleCards();
@@ -73,7 +73,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Navbar
-          title="Mega Man Clicky Game"
+          title="Mega Man Memory Game"
         />
         <Title
           score={this.state.currentScore}
@@ -83,7 +83,7 @@ class App extends Component {
         <Container>
           <Row>
             {this.state.megaManCards.map(gameCard => (
-              <Column size="md-3 sm-4">
+              <Column size="">
                 <GameCard
                   key={gameCard.id}
                   cardClickEvent={this.cardClickEvent}
