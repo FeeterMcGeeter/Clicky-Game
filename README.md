@@ -22,3 +22,4 @@ This is a game of memory.  Click on an image to start the game.  The goal is to 
     * My solution was to write a function that would loop through a list randomly and then passed the list of images through that function.
 
 ### Link to Deployed Version
+https://feetermcgeeter.github.io/Clicky-Game/.
