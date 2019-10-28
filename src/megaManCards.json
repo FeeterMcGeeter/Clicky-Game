@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Mega Man",
-      "image": "../images/Megaman.png",
+      "image": "./../images/Megaman.png",
       "clicked": false
     },
     {
