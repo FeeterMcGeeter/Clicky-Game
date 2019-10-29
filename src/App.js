@@ -6,7 +6,7 @@ import GameCard from "./components/GameCard"
 import Column from "./Column";
 import Container from "./Container";
 import Row from "./Row";
-import megaManCards from "./megaManCards.json";
+import megaManCards from "./megaManCards.js";
 import "./App.css";
 
 // SHUFFLING THE GAME CARDS
