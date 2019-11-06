@@ -19,7 +19,7 @@ This is a game of memory.  Click on an image to start the game.  The goal is to 
 
 ### Biggest Challenge During the Build
 * How I was going to make the images appear in random cards after each click
-    * My solution was to write a function that would loop through a list randomly and then passed the list of images through that function.
+    * My solution was to write a function that would loop through a list randomly and then pass the list of images through that function.
 
 ### Link to Deployed Version
 https://feetermcgeeter.github.io/Clicky-Game/.
